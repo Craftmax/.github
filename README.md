@@ -21,7 +21,7 @@ Si encuentras algún problema, tienes una pregunta o una sugerencia, por favor c
 
 ## Licencia
 
-Este proyecto está bajo [Licencia XYZ](LICENSE.md) - Detalles sobre la licencia.
+Este proyecto está bajo [Licencia Mit](LICENSE.md) - Detalles sobre la licencia.
 
 ## Agradecimientos
 
