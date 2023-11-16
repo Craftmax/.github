@@ -13,8 +13,8 @@ Clona el repositorio desde GitHub:
 Instala las dependencias:
 
     ```bash
-    cd .github
-    # Instrucciones adicionales para la instalación de dependencias, si es necesario
+    cd 
+    # Instrucciones adicionales para la instalación de dependencias
     ```
 
 3. Configura el entorno de desarrollo según las instrucciones específicas del proyecto.
@@ -24,7 +24,7 @@ Instala las dependencias:
 1. Asegúrate de trabajar en una rama separada para tu contribución:
 
     ```bash
-    git checkout -b bashx
+    git checkout 
     ```
 
 2. Realiza tus cambios y pruebas.
@@ -33,7 +33,7 @@ Instala las dependencias:
 
     ```bash
     git add 
-    git commit -m "Descripción clara de tus cambios
+    git commit -m Descripción clara de tus cambios
     ```
 
 4. Asegúrate de que tus cambios están basados en la rama principal más reciente:
