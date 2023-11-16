@@ -4,13 +4,13 @@
 
 ## Configuración del Entorno de Desarrollo
 
-1. Clona el repositorio desde GitHub:
+Clona el repositorio desde GitHub:
 
     ```bash
     git clone https://github.com/Craftmax/.github.git
     ```
 
-2. Instala las dependencias:
+Instala las dependencias:
 
     ```bash
     cd .github
@@ -24,7 +24,7 @@
 1. Asegúrate de trabajar en una rama separada para tu contribución:
 
     ```bash
-    git checkout -b nombre-de-tu-rama
+    git checkout -b bashx
     ```
 
 2. Realiza tus cambios y pruebas.
@@ -32,8 +32,8 @@
 3. Añade y commitea tus cambios:
 
     ```bash
-    git add .
-    git commit -m "Descripción clara de tus cambios"
+    git add 
+    git commit -m "Descripción clara de tus cambios
     ```
 
 4. Asegúrate de que tus cambios están basados en la rama principal más reciente:
@@ -59,4 +59,4 @@
 - Asegúrate de que tus cambios no rompan las pruebas existentes.
 - Sé respetuoso y constructivo en tus interacciones con otros contribuyentes.
 
-Gracias por contribuir a Craftmax. ¡Esperamos tus aportes!
+Gracias por contribuir a Craftmax. ¡Esperamos tus aportes
