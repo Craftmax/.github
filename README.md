@@ -17,11 +17,11 @@ Agradecemos tu interes en contribuir a Craftmax Por favor revisa nuestras [pauta
 
 ## Problemas y Sugerencias
 
-Si encuentras algún problema, tienes una pregunta o una sugerencia, por favor crea un [issue](https://github.com/Craftmax/.github/issues).
+Si encuentras algun problema, tienes una pregunta o una sugerencia, por favor crea un [issue](https://github.com/Craftmax/.github/issues).
 
 ## Licencia
 
-Este proyecto está bajo [Licencia MIT](LICENSE.md) - Detalles sobre la licencia.
+Este proyecto está bajo [Licencia MIT](LICENSE.md) Detalles sobre la licencia.
 
 ## Agradecimientos
 
