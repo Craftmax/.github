@@ -6,7 +6,7 @@ Somos una organización apasionada por la artesania digital y la excelencia en e
 
 ## Proyectos Destacados
 
-1. **CraftyApp** Una aplicación para simplificar tu vida artesanal.
+1. **CraftyApp** Una aplicacion para simplificar tu vida artesanal.
 2. **TechCraft Framework** Nuestro marco de desarrollo personalizado para proyectos escalables.
 
 ## Contribuir
@@ -19,4 +19,4 @@ Estamos abiertos a colaboraciones Si quieres contribuir a nuestros proyectos o t
 - Correo electrónico: info@craftmax.org
 - Siguenos en Twitter: [@CraftmaxOrg](https://twitter.com/CraftmaxOrg)
 
-Gracias por tu interés en Craftmax
+Gracias por tu interes en Craftmax
