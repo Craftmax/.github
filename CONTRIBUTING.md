@@ -1,4 +1,4 @@
-# Contribución a Craftmax
+Contribución a Craftmax
 
 Gracias por considerar contribuir a nuestro proyecto Valoramos la participacion de la comunidad para mejorar Craftmax. Antes de enviar tus contribuciones, por favor toma un momento para revisar las siguientes pautas.
 
