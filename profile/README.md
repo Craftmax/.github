@@ -2,7 +2,7 @@
 
 Bienvenido al perfil de Craftmax
 
-Somos una organización apasionada por la artesania digital y la excelencia en el desarrollo de software. Nuestro objetivo es crear soluciones innovadoras y de alta calidad que impulsen el progreso tecnologico.
+Somos una organizacion apasionada por la artesania digital y la excelencia en el desarrollo de software. Nuestro objetivo es crear soluciones innovadoras y de alta calidad que impulsen el progreso tecnologico.
 
 ## Proyectos Destacados
 
