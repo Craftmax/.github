@@ -1,6 +1,6 @@
 # Contribución a Craftmax
 
-Gracias por considerar contribuir a nuestro proyecto Valoramos la participación de la comunidad para mejorar Craftmax. Antes de enviar tus contribuciones, por favor toma un momento para revisar las siguientes pautas.
+Gracias por considerar contribuir a nuestro proyecto Valoramos la participacion de la comunidad para mejorar Craftmax. Antes de enviar tus contribuciones, por favor toma un momento para revisar las siguientes pautas.
 
 ## Configuracion del Entorno de Desarrollo
 
@@ -17,9 +17,9 @@ Instala las dependencias:
     # Instrucciones adicionales para la instalación de dependencias
     ```
 
-3. Configura el entorno de desarrollo según las instrucciones específicas del proyecto.
+3. Configura el entorno de desarrollo segun las instrucciones específicas del proyecto.
 
-## Proceso de Contribución
+## Proceso de Contribucion
 
 1. Asegúrate de trabajar en una rama separada para tu contribución:
 
@@ -33,10 +33,10 @@ Instala las dependencias:
 
     ```bash
     git add 
-    git commit -m Descripción clara de tus cambios
+    git commit -m Descripcion clara de tus cambios
     ```
 
-4. Asegúrate de que tus cambios están basados en la rama principal más reciente:
+4. Asegúrate de que tus cambios estan basados en la rama principal más reciente:
 
     ```bash
     git fetch origin
@@ -47,9 +47,9 @@ Instala las dependencias:
 
 6. Realiza pruebas adicionales si es necesario.
 
-7. Envía tu solicitud de extracción (pull request) a la rama principal.
+7. Envía tu solicitud de extraccion (pull request) a la rama principal.
 
-8. Participa en la revisión del código y realiza ajustes según sea necesario.
+8. Participa en la revision del código y realiza ajustes según sea necesario.
 
 9. Una vez que tu solicitud de extracción sea aceptada, será fusionada con la rama principal.
 
@@ -57,6 +57,4 @@ Instala las dependencias:
 
 - Por favor, sigue el estilo de codificación y las convenciones del proyecto.
 - Asegurate de que tus cambios no rompan las pruebas existentes.
-- Sé respetuoso y constructivo en tus interacciones con otros contribuyentes.
-
-Gracias por contribuir a Craftmax. Esperamos tus aportes
+- Se respetuoso y constructivo en tus interacciones con otros contribuyentes.
