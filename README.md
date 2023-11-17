@@ -7,13 +7,13 @@ Este repositorio contiene archivos y configuraciones especificas para la gestion
 ## Archivos Importantes
 
 - **CODE_OF_CONDUCT.md**: Normas de comportamiento esperadas de los contribuyentes y colaboradores.
-- **CONTRIBUTING.md**: Pautas detalladas sobre como contribuir al proyecto.
+- **CONTRIBUTING.md** Pautas detalladas sobre como contribuir al proyecto.
 - **ISSUE_TEMPLATE.md**: Plantilla para informar problemas (issues).
-- **PULL_REQUEST_TEMPLATE.md**: Plantilla para enviar solicitudes de extracción (pull requests).
+- **PULL_REQUEST_TEMPLATE.md** Plantilla para enviar solicitudes de extracción (pull requests).
 
 ## Contribución
 
-¡Agradecemos tu interes en contribuir a Craftmax Por favor revisa nuestras [pautas de contribución](CONTRIBUTING.md) antes de comenzar.
+Agradecemos tu interes en contribuir a Craftmax Por favor revisa nuestras [pautas de contribucion](CONTRIBUTING.md) antes de comenzar.
 
 ## Problemas y Sugerencias
 
