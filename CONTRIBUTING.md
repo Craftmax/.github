@@ -1,8 +1,8 @@
 # Contribución a Craftmax
 
-¡Gracias por considerar contribuir a nuestro proyecto! Valoramos la participación de la comunidad para mejorar Craftmax. Antes de enviar tus contribuciones, por favor toma un momento para revisar las siguientes pautas.
+Gracias por considerar contribuir a nuestro proyecto Valoramos la participación de la comunidad para mejorar Craftmax. Antes de enviar tus contribuciones, por favor toma un momento para revisar las siguientes pautas.
 
-## Configuración del Entorno de Desarrollo
+## Configuracion del Entorno de Desarrollo
 
 Clona el repositorio desde GitHub:
 
@@ -56,7 +56,7 @@ Instala las dependencias:
 ## Notas Adicionales
 
 - Por favor, sigue el estilo de codificación y las convenciones del proyecto.
-- Asegúrate de que tus cambios no rompan las pruebas existentes.
+- Asegurate de que tus cambios no rompan las pruebas existentes.
 - Sé respetuoso y constructivo en tus interacciones con otros contribuyentes.
 
-Gracias por contribuir a Craftmax. ¡Esperamos tus aportes
+Gracias por contribuir a Craftmax. Esperamos tus aportes
