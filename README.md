@@ -8,7 +8,7 @@ Este repositorio contiene archivos y configuraciones especificas para la gestion
 
 - **CODE_OF_CONDUCT.md**: Normas de comportamiento esperadas de los contribuyentes y colaboradores.
 - **CONTRIBUTING.md** Pautas detalladas sobre como contribuir al proyecto.
-- **ISSUE_TEMPLATE.md**: Plantilla para informar problemas (issues).
+- **ISSUE_TEMPLATE.md** Plantilla para informar problemas (issues).
 - **PULL_REQUEST_TEMPLATE.md** Plantilla para enviar solicitudes de extracción (pull requests).
 
 ## Contribución
