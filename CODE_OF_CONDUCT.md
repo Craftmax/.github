@@ -32,6 +32,6 @@ Este Codigo de Conducta se aplica tanto dentro de los espacios del proyecto como
 
 ## Aplicacion
 
-Los casos de comportamiento abusivo, acosador o inaceptable pueden ser denunciados contactando al equipo del proyecto en [correo electrónico del equipo] Todas las quejas serán revisadas e investigadas y resultarán en una respuesta que se considere necesaria y apropiada a las circunstancias. El equipo está obligado a mantener la confidencialidad con respecto al informante de un incidente.
+Los casos de comportamiento abusivo, acosador o inaceptable pueden ser denunciados contactando al equipo del proyecto en [correo electronico del equipo] Todas las quejas serán revisadas e investigadas y resultarán en una respuesta que se considere necesaria y apropiada a las circunstancias. El equipo esta obligado a mantener la confidencialidad con respecto al informante de un incidente.
 
-Este Código de Conducta está adaptado del [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
+Este Codigo de Conducta esta adaptado del [Contributor Covenant](https://www.contributor-covenant.org/version/2/0/code_of_conduct.html).
