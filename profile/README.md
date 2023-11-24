@@ -15,8 +15,8 @@ Estamos abiertos a colaboraciones Si quieres contribuir a nuestros proyectos o t
 
 ## Contacto
 
-- Sitio web: [craftmax.org](https://www.craftmax)
-- Correo electronico: info@craftmax
-- Siguenos en Twitter: [@CraftmaxOrg](https://twitter.com/CraftmaxOrg)
+- Sitio web: [craftmax.org](https://craftmaxo)
+- Correo electronico: info@craftmaxo
+- Siguenos en Twitter: [@CraftmaxOrg](https://twitter.com/CraftmaxO)
 
 Gracias por tu interes en Craftmax
