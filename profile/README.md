@@ -1,4 +1,4 @@
-# Craftmax Organization.
+# Craftmax
 
 Bienvenido al perfil de Craftmax
 
